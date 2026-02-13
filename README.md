@@ -1,5 +1,19 @@
-# 💫 About Me:
-I am currently pursuing cse specialisation in ai ml .<br>Interested in  development 
+<h1 align="center">Hi 👋, I'm Bikram Kumar</h1>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning Student</h3>
+
+- 🔭 I’m currently working on **Hibernate in Java**
+
+- 🌱 I’m currently learning **C++ , Java Backend**
+
+- 👯 I’m looking to collaborate on **Python and Java Projects**
+
+- 🤝 I’m looking for help with **Java Projects**
+
+- 📝 I regularly write articles on [Artificial Intelligence and Maschine Learning](Artificial Intelligence and Maschine Learning)
+
+- 💬 Ask me about **Python,MySql,etc**
+
+
 
 
 ## 🌐 Socials:
